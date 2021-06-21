@@ -1,0 +1,80 @@
+.logo
+{
+    float:left;
+    margin-left: 2em;
+  
+}
+.logo-text
+{
+    margin-left: 3em;
+}
+.colour
+{
+    background-image: url("https://www.revolution-productions.com/wp-content/uploads/2018/04/services-header-bg-animated-video-prod.jpg");
+}
+.photo
+{
+    width: 12em;
+    height: 12em;
+}
+.pink
+{
+    background-color: #fff7e6;
+}
+.card1
+{
+    padding-left: 20em;
+}
+.background-clr
+{
+    background-image: url("https://thumbs.gfycat.com/UncomfortableRemarkableFoal.webp");
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ic
+{
+    float: left;
+
+}
+.adj
+{
+    padding-top: 1em;
+    margin-left: 3em;
+}
+.adj1
+{
+    margin-right: 2rem;
+}
+.hd
+{
+    margin-top: 1rem;
+}
+.card2
+{
+    align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 20%;
+  justify-content: center;
+  width: 33%;
+}
+.set
+{
+    margin-left: 3em;
+}
+.design
+{
+    background-color:#e0e0d1 ;
+}
+.text1-primary
+{
+    color: #000080;
+}
+body{
+    margin: 0;
+}
+}
